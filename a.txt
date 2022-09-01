@@ -1,1 +1,2 @@
 Testando uma atualização de arquivo.
+Nova linha criada.
