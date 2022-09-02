@@ -1,9 +1,9 @@
 Testando atualização.
 fdsafdasf
 a
-<<<<<<< HEAD
+
 b
 c
-=======
+
 Atualizaçaão enviado para a master.
->>>>>>> master
+
